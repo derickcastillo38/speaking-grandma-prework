@@ -17,6 +17,6 @@ def speak_to_grandma(words)
   elsif words == 'Hi Nana, how are you?' || words == 'Hi!'
     return 'HUH?! SPEAK UP, SONNY!'
   elsif words == 'WHAT DID YOU EAT TODAY?' || WORDS == 'WHAT?'
-    return 'NO, not since 1938!'
+    return 'NO, NOT SINCE 1938!'
   end
 end
