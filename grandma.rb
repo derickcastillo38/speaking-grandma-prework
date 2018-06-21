@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(words)
   if words == 'I LOVE YOU GRANDMA!'
-    return 'I LOVE YOU TOO PUMPKIN'
+    return 'I LOVE YOU TOO PUMPKIN!'
   elsif words == 'Hi Nana, how are you?' || words == 'Hi!'
     return 'HUH?! SPEAK UP, SONNY!'
   elsif words == 'WHAT DID YOU EAT TODAY?' || WORDS == 'WHAT?'
