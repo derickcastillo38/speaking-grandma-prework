@@ -18,4 +18,5 @@ def speak_to_grandma(words)
     puts 'HUH?! SPEAK UP, SONNY!'
   elsif words == 'WHAT DID YOU EAT TODAY?' || WORDS == 'WHAT?'
     puts 'NO, not since 1938!'
+  end
 end
